@@ -2,7 +2,8 @@ header{
     background-color: #e24647;
     color:#fff;
     overflow: hidden;
-    margin: 0 115px;
+    height:965px;
+    margin: 115px 115px;
     padding:  60px 55px 95px 60px ;
 }
 h1{
@@ -16,11 +17,19 @@ nav{
     font-size: 21px;
     font-family: Arial, Helvetica, sans-serif;
     float: right;  
-    margin-top: 10px;
-
-  
+    margin-top: 10px; 
 }
 
 a  {text-decoration:none;
     color: inherit;
+    margin-right: 28px;
+}
+
+button{
+  width: 199px;
+  height: 60px;
+  border: solid 2px #252c41;
+  background-color: #252c41;
+  color:#fff;
+  font-size: 20px;
 }
