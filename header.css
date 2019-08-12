@@ -25,6 +25,10 @@ a  {text-decoration:none;
     margin-right: 28px;
 }
 
+#last{
+    margin-right: 0px;
+}
+
 button{
   width: 199px;
   height: 60px;
